@@ -1,0 +1,6 @@
+{
+  "name": "Anwar habita",
+  "description": "A production-grade habit operating system built on James Clear's Atomic Habits principles: 4 Laws of Behavior Change, Identity Voting, Habit Stacking, and the 2-Minute Rule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
